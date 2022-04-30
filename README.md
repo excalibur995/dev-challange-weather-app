@@ -55,6 +55,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - [Radix UI](https://www.radix-ui.com/)
 - [React Query](https://react-query.tanstack.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
+- [Framer Motion](https://www.framer.com/motion/)
 
 ## Features
 
